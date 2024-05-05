@@ -10,4 +10,4 @@ so you can access all api endpoints from one place.
 
 this is also registered with eureka server.  
 so remember, start the eureka server first,  
-and then run all 4 microservices one by one.  
+and then run all 4 microservices one by one (run gateway server at the end).    
